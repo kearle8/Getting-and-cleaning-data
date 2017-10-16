@@ -20,7 +20,12 @@ Frequency-domain signals (variables prefixed by frequencyDomain), resulting from
 All measurements contained in the tidy data set are averages.
 
 tBodyAccMeanX
+ttBodyAccMeanX
 tBodyAccMeanY
+tBodyAccMeanZ
+tBodyAccStdX
+tBodyAccStdY
+tBodyAccStBodyAccMeanY
 tBodyAccMeanZ
 tBodyAccStdX
 tBodyAccStdY
